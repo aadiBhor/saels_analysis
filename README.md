@@ -4,7 +4,7 @@ This project performs detailed exploratory data analysis (EDA) on customer sales
 
 ---
 
-## 🧠 Key Insight (Business Summary)
+##  Key Insight (Business Summary)
 
 > **Married women aged 26–35**, living in **Uttar Pradesh, Maharashtra, or Karnataka**, and working in **IT, Healthcare, or Aviation** sectors, contribute significantly to the sales of **Food, Clothing, and Electronics**.  
 >  
