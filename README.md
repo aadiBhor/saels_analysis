@@ -3,11 +3,6 @@
 This project performs exploratory data analysis (EDA) on a sales dataset to uncover trends, patterns, and actionable business insights. The analysis is implemented in Python using the `pandas` and `matplotlib` libraries in a Jupyter notebook.
 
 ---
-# 📊 Sales Data Analysis Project
-
-This project focuses on analyzing historical sales data to derive insights into customer behavior, product performance, and revenue trends. It uses Python for data cleaning, transformation, and visualization in a Jupyter notebook.
-
----
 
 ## 📌 Table of Contents
 
